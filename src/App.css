@@ -1,0 +1,28 @@
+body {
+  background: #f7cac9;
+  display: flex;
+  justify-content: center;
+}
+
+.todoBlock {
+  /* background-color: #f7cac9; */
+  background-color: #fff;
+  width: 80vw;
+  max-height: 70vh;
+  padding: 30px;
+  margin-top: 50px;
+  border-radius: 10px;
+  box-shadow: -9px 17px 13px rgb(0 0 0 / 16%);
+}
+
+.blue {
+  background: rgb(146, 168, 209);
+}
+
+.pink {
+  background: #f7cac9;
+}
+
+.green {
+  background: #6bc59c;
+}
