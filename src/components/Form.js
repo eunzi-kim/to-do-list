@@ -12,7 +12,6 @@ function Form({ onHandleChange, onHandleSubmit, value }) {
         name="value"
         style={{
           flex: "10",
-          padding: "5px",
           fontSize: "1rem",
           padding: "0.5rem 1rem",
         }}
